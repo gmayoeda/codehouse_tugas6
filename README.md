@@ -1,6 +1,6 @@
 # codehouse_tugas6
 
-A new Flutter project.
+https://github.com/gmayoeda/codehouse_tugas6/blob/main/%23apk/Screenshot_1649595665.png
 
 ## Getting Started
 
